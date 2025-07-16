@@ -1,0 +1,6 @@
+---
+title: Home
+slug: /
+---
+
+<meta http-equiv="refresh" content="0; url=/docs/intro" />
