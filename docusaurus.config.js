@@ -61,6 +61,14 @@ const config = {
     locales: ['en'],
   },
 
+  module.exports = {
+    url: 'https://qimeraorg.github.io',          // no trailing slash
+    baseUrl: '/Qimera-Documentation/',           // '/' if you ever move to a user/org site
+    organizationName: 'QimeraOrg',
+    projectName: 'Qimera-Documentation',
+    trailingSlash: false,                        // keeps nice URLs
+  };
+
   presets: [
     [
       'classic',
