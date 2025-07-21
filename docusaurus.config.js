@@ -40,15 +40,16 @@ const config = {
   ],
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://cautious-broccoli-rw1kn8j.pages.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'qimeraorg', // Usually your GitHub org/user name.
+  projectName: 'Qimera-Documentation', // Usually your repo name.
+  deploymentBranch: 'Release', // The branch that GitHub pages will deploy from.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -60,6 +61,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
 
   presets: [
     [
