@@ -42,7 +42,8 @@ const config = {
   // Set the production url of your site here
   url: 'https://cautious-broccoli-rw1kn8j.pages.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  // For GitHub pages deployment, it is often '/<projectName>/'git
+  
   baseUrl: '/',
 
   // GitHub pages deployment config.
@@ -58,8 +59,14 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'en',                 // '/' serves English
+    locales: ['en', 'tr', 'ko', 'es'],   // <- add new locales here
+    localeConfigs: {
+      en: { label: 'English',  htmlLang: 'en' },
+      tr: { label: 'Türkçe',   htmlLang: 'tr' },
+      ko: { label: '한국어',    htmlLang: 'ko' },
+      es: { label: 'Español',  htmlLang: 'es' },
+    },
   },
 
 
@@ -116,6 +123,7 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
+          { type: 'localeDropdown', position: 'right',},
         ],
       },
       prism: {

@@ -22,5 +22,3 @@ sidebar_position: 1
 
 ## Next Steps
 
-Continue with Quick Start to setup your system in no time.
-
