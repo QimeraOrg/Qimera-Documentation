@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Quick Start": {
+    "message": "Quick Start",
+    "description": "The label for category Quick Start in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Quick Start.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Qimera concepts.",
+    "description": "The generated-index page description for category Quick Start in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tracked Workflow": {
+    "message": "Tracked Workflow",
+    "description": "The label for category Tracked Workflow in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tracked Workflow.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Qimera concepts.",
+    "description": "The generated-index page description for category Tracked Workflow in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Trackless Workflow": {
+    "message": "Trackless Workflow",
+    "description": "The label for category Trackless Workflow in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Trackless Workflow.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Qimera concepts.",
+    "description": "The generated-index page description for category Trackless Workflow in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Triggers": {
+    "message": "Triggers",
+    "description": "The label for category Triggers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Triggers.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Qimera concepts.",
+    "description": "The generated-index page description for category Triggers in sidebar tutorialSidebar"
+  }
+}
