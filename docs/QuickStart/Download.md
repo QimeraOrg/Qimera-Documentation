@@ -5,7 +5,7 @@ title: 1) Download
 
 # 1) Download Qimera
 
-Follow the steps below to pull the Qimera source code to your local machine.
+Follow the steps below to pull the Qimera project to your local machine.
 
 1. **Open GitHub Desktop**.  
    Make sure you are signed in with the **qimera client** GitHub account.
@@ -17,11 +17,16 @@ Follow the steps below to pull the Qimera source code to your local machine.
         - **Qimera V5** — built for **Unreal Engine 5.3 or later**
     * Click **Clone** to start the download.
 
-   ![GitHub Desktop—Clone Repository](/img/QuickStart/LauncherButton2.png)
+   ![GitHub Desktop—Clone Repository](/img/QuickStart/Github.png)
+
 
 3. **Open the project.**  
    When the clone finishes, navigate to the project folder and double‑click the `.uproject` file to launch Unreal Engine.
 
-   ![Qimera Launcher](/img/QuickStart/QimeraLauncher.png)
+> **Tip:** Duplicate the project folder before opening the project. Use the duplicate instead of the cloned repository folder.
+
+   ![Qimera Launcher](/img/QuickStart/ProjectFolder.png)
+
 
 > **Tip:** On first launch, Unreal Engine may prompt you to build missing binaries—click **Yes** and let the editor compile. This can take several minutes, especially on the first run.
+
