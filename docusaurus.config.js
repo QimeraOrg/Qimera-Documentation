@@ -119,7 +119,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: 'Documentation (Beta)',
           },
           { type: 'localeDropdown', position: 'right',},
         ],
