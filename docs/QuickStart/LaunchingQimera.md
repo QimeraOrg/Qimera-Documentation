@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
-# 4) Launching Qimera
+# 3) Launching Qimera
 
 Choose a map to launch Qimera. You can select a map from the list or use the search bar to find a specific map.
 
