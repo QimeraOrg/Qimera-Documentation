@@ -1,9 +1,9 @@
 ---
+title: Introduction 
 sidebar_position: 1
 ---
 
-# Introduction
-
+![Qimera Launcher](/img/LogoIntro.png)
 
 
 # Welcome to **Qimera**
