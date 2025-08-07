@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Qimera 5
+# Introduction
 
 
 
@@ -21,4 +21,6 @@ sidebar_position: 1
 - **Scalable & modular** – Add input modules (data feeds, DMX, OSC) and output nodes (SDI, NDI) as your production grows.
 
 ## Next Steps
+
+Continue with Quick Start to setup your system in no time.
 

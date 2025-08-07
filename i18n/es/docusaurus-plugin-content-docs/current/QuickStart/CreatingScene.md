@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# 3) Creating a Scene
+# 4) Creating a Scene
 
 Click to composition tab and choose a scene type to create your first scene. 
 

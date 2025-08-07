@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# 1) Authentication
+# 2) Authentication
 
 Open **Qimera Launcher Widget** from the dropdown menu next to the Qimera icon.
 
